@@ -4,4 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+[![](https://dcbadge.vercel.app/api/server/tendo)](https://discord.gg/tendo)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tendoxt&show_icons=true&theme=gruvbox)
+
+
