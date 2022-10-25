@@ -5,3 +5,4 @@
 - 📫 How to reach me ...
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tendoxt)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tendoxt&show_icons=true&theme=radical)
