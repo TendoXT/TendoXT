@@ -10,4 +10,4 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tendoxt&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tendoxt&theme=2077) [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tendoxt&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tendoxt&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tendoxt&theme=2077&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tendoxt&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tendoxt&theme=2077&utcOffset=8)
