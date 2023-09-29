@@ -8,6 +8,6 @@
 <a href="https://discord.gg/tendo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tendo" height="30" width="40" /></a>
 </p>
 
-[![](https://raw.githubusercontent.com/TendoXT/TendoXT/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/TendoXT/TendoXT/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/TendoXT/TendoXT/master/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/TendoXT/TendoXT/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/TendoXT/TendoXT/master/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tendoxt&theme=2077)]
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tendoxt&theme=2077)] [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tendoxt&theme=2077)]
+[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tendoxt&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tendoxt&theme=2077&utcOffset=8))
